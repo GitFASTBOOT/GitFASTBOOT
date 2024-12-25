@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Shahin 👋 
 
-![Profile Banner](https://example.com/banner.png)
+![Profile Banner](https://www.etsy.com/listing/1423775075/twitch-offline-banner-twitch-profile)
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm Ahmed Shahin from Egypt, a passionate Android developer with a love for codi
 - 🌱 I’m currently learning **Advanced Android techniques and tools**
 - 👯 I’m looking to collaborate on **Open Source Android Projects**
 - 💬 Ask me about **Android development, Linux, GitHub, Markdown, and SSH**
-- 📫 How to reach me: [ahmedshahin@example.com](mailto:ahmedshahin@example.com)
+- 📫 How to reach me: [ahmedshahin@example.com](mailto:ahmedshahinX0X@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tools and technologies to make development easier and more efficient.
 
@@ -29,13 +29,6 @@ I'm Ahmed Shahin from Egypt, a passionate Android developer with a love for codi
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitFASTBOOT&layout=compact&theme=radical)
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/GitFASTBOOT/repo/pull/123) in [GitFASTBOOT/repo](https://github.com/GitFASTBOOT/repo)
-2. 🗣 Commented on [#456](https://github.com/GitFASTBOOT/repo/issues/456) in [GitFASTBOOT/repo](https://github.com/GitFASTBOOT/repo)
-<!--END_SECTION:activity-->
 
 ## Visitor Count
 
